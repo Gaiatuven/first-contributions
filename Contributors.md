@@ -297,6 +297,7 @@ harshal honde
 - [Aadithya] (https://github.com/Aadithya-J)
 - [Lurifos](https://github.com/BlueBeret)
 - [Hamza Rehan](https://github.com/HamzaRehan4)
+- [Gregory Claassen](https://github.com/Gaiatuven)
 - [pyxelhaze](https://github.com/pyxelhaze)
 - [Arvin Tamayosa](https://github.com/artamayosa)
 - [Trinity Pickersgill](https://github.com/TrinityPick)
